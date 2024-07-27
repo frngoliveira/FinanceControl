@@ -27,7 +27,7 @@ Camada de Infraestrutura: Repositórios e acesso a dados.
 Configuração e Execução
 1. Clonar o Repositório
 
-git clone https://github.com/seu-usuario/financecontrol.git
+git clone https://https://github.com/frngoliveira/FinanceControl.git
 cd financecontrol
 
 2. Configurar o Banco de Dados
